@@ -1,1 +1,0 @@
-# secuuth-js-react-sdk
